@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Osman Fenfaquee 👋
 
-<!--
-**osmanfenfa/osmanfenfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Cybersecurity Enthusiast | ByteDefenders (a student-led cybersecurity organization) Chief Executive Officer | Computer Science Society Secretary General
 
-Here are some ideas to get you started:
+Passionate about cybersecurity, building real-world systems at the intersection of security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+Backend: Python, Django, FastAPI
+Security: Vulnerability Scanning, Behavioral Authentication, Linux Administration
+Database: PostgreSQL
+Others: Git, REST APIs, Docker
+
+---
+
+📚 Currently Learning
+Splunk for Cybersecurity Defence & SIEM
+Python for Cybersecurity Automation
+Advanced FastAPI — async, background tasks, security middleware
+
+---
+
+**Open to remote opportunities.**
+
+
+## 📬 Connect
+
+[![Email](osmantfenfaquee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osman_Fenfaquee-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/osman-fenfaquee-07739432b)
