@@ -1,30 +1,57 @@
-# Hi, I'm Osman Fenfaquee 👋
+# Hi, I am Osman Fenfaquee
 
-Python Developer | Cybersecurity Enthusiast | ByteDefenders (a student-led cybersecurity organization) Chief Executive Officer | Computer Science Society Secretary General
+**Python Developer | Cybersecurity Enthusiast**
+CEO of ByteDefenders (Student-led Cybersecurity Organization)
+Secretary General, Computer Science Society
 
-Passionate about cybersecurity, building real-world systems at the intersection of security
+---
+
+I’m passionate about building **secure, real-world systems** at the intersection of **software engineering and cybersecurity**.
+
+My focus is on developing solutions that are not just functional, but **resilient, scalable, and security-first**—especially in emerging tech environments.
 
 ---
 
 ## Skills
-Backend: Python, Django, FastAPI
-Security: Vulnerability Scanning, Behavioral Authentication, Linux Administration
-Database: PostgreSQL
-Others: Git, REST APIs, Docker
+
+**Backend Development:**
+
+* Python (FastAPI, Django)
+* REST API Design
+
+**Cybersecurity:**
+
+* Vulnerability Scanning
+* Behavioral Authentication
+* Linux Administration
+
+**Database & Tools:**
+
+* PostgreSQL
+* Git
 
 ---
 
-📚 Currently Learning
-Splunk for Cybersecurity Defence & SIEM
-Python for Cybersecurity Automation
-Advanced FastAPI — async, background tasks, security middleware
+## Currently Learning
+
+* Splunk (SIEM & Security Monitoring)
+* Python for Cybersecurity Automation
+* Advanced FastAPI (Async, Background Tasks, Security Middleware)
 
 ---
 
-**Open to remote opportunities.**
+## Vision
 
+To leverage cybersecurity and software engineering to drive **secure digital transformation**, particularly in developing regions.
 
-## 📬 Connect
+---
 
-[![Email](osmantfenfaquee@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osman_Fenfaquee-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/osman-fenfaquee-07739432b)
+## Connect With Me
+
+Email: [osmantfenfaquee@gmail.com](mailto:osmantfenfaquee@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osman_Fenfaquee-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/osman-fenfaquee-07739432b)
+
+---
+
+💼 *Open to remote opportunities and collaborations.*
