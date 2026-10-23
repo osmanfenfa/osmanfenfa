@@ -1,8 +1,6 @@
 # Hi, I am Osman Fenfaquee
 
 **Python Developer | Cybersecurity Enthusiast** |
-CEO of ByteDefenders (Student-led Cybersecurity Organization) |
-Secretary General, Computer Science Society
 
 ---
 
